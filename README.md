@@ -4,6 +4,7 @@ Expect random bits of technology in this little space.
 
 🌐 [aitorpazos.es](https://aitorpazos.es)
 
+<a rel="me" href="https://fosstodon.org/@aitorpazos">💬 aitorpazos@fosstodon.org</a>
 
 <!--
 **aitorpazos/aitorpazos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
